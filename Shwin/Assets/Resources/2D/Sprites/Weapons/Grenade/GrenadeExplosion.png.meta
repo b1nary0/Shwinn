@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: fc263454d52133a4081f73fbdc5149e0
+timeCreated: 1429188828
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GrenadeExplosion_0
+    21300002: GrenadeExplosion_1
+    21300004: GrenadeExplosion_2
+    21300006: GrenadeExplosion_3
+    21300008: GrenadeExplosion_4
+    21300010: GrenadeExplosion_5
+    21300012: GrenadeExplosion_6
+    21300014: GrenadeExplosion_7
+    21300016: GrenadeExplosion_8
+    21300018: GrenadeExplosion_9
+    21300020: GrenadeExplosion_10
+    21300022: GrenadeExplosion_11
+    21300024: GrenadeExplosion_12
+    21300026: GrenadeExplosion_13
+    21300028: GrenadeExplosion_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GrenadeExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 410
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 290
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 292
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 160
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrenadeExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 24
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
